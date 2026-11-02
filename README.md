@@ -181,8 +181,7 @@ file does not remove it from git history.
 
 | Name | Role |
 |---|---|
-| _Your name_ | _Your role_ |
+| Mayank SOni | indie Developer |
 
-## 📄 License
 
-MIT, see [LICENSE](LICENSE).
+
